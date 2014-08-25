@@ -1,0 +1,156 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto:100");
+@font-face {
+	font-family: 'icomoon';
+	src:url('icomoon.eot?-ff4szy');
+	src:url('icomoon.eot?#iefix-ff4szy') format('embedded-opentype'),
+		url('icomoon.woff?-ff4szy') format('woff'),
+		url('icomoon.ttf?-ff4szy') format('truetype'),
+		url('icomoon.svg?-ff4szy#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+	content: "\e600";
+	padding-left: 1.5em;
+	padding-right: 2em;
+	font-size: 18px;
+
+}
+.icon-profile:before {
+	content: "\e601";
+	padding-left: 1.5em;
+	padding-right: 2em;
+	font-size: 18px;
+}
+.icon-briefcase:before {
+	content: "\e602";
+	padding-left: 1.5em;
+	padding-right: 2em;
+	font-size: 18px;
+}
+
+
+.col-md-2{
+	padding-left: 0em;
+	padding-right: 0em;
+	/*Fija el panel izquierdo*/
+	position: fixed;
+}
+
+.col-md-10{
+	padding-left: 0em;
+	padding-right: 0em;
+	/*Se puede alinear el panel tambien con float*/
+	/*float: right;*/
+
+	/*Alinea el panel a la derecha*/
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	background: #EEEEEE;
+	height: 170em;
+	color: #22A7F0;
+
+}
+
+.navegacion{
+	background: #2E2C43;
+	padding-bottom: 100%;
+
+}
+
+.navegacion figure{
+	margin: 0px; 
+	padding: 0px;
+	text-align: center;
+	padding: 2.5em 0 2em 0em;
+
+}
+
+.navegacion figure img{
+	border-radius: 50%;
+	border: 6px solid #FF3951;
+	width: 8em;
+}
+
+.navegacion figure a{
+	text-decoration: none;
+	margin: 2em 0em;
+}
+
+.navegacion .navbar ul{
+	list-style: none;
+	padding: 0px;
+}
+.navegacion .navbar ul li{
+	width: 100%;
+}
+
+.navegacion .navbar ul li a{
+	text-decoration: none;
+	display: block;
+	padding: 1em 0em;
+	color: #2F89C1;
+}
+.navegacion .navbar ul li a:hover{
+	font-weight: bold;
+	color: white;
+	background: #22A7F0;
+	/*border-radius: 0.5em;*/
+
+}
+
+.navegacion .navbar ul li a span{
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 14px;
+
+}
+
+.contenido .foot p{
+	text-align: center;
+	background: #22A7F0;
+	margin: 0px;
+	padding: 6em 0em;
+	color: white;
+}
+
+#perfil{
+	/*background: #B6B0AB;*/
+	/*font-weight: bolder;*/
+
+}
+
+#proyectos{
+	margin: 10em 0em;
+	/*font-weight: bolder;*/
+}
+
+#contacto{
+	margin: 10em 0em;
+	/*font-weight: bolder;*/
+}
+
+#perfil, #proyectos, #contacto{
+	height: 50em;
+	font-family: "Roboto";
+	font-weight: bold;
+	background: #D2D7D3;
+	padding: 2em 3em
+
+}
