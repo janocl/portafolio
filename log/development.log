@@ -28792,3 +28792,201 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 17:56:01
 
 
 Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 17:56:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (32.0ms)
+Completed 200 OK in 55ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/fonts-icomoon" for 127.0.0.1 at 2014-08-25 18:23:51 -0400
+
+
+Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 18:23:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-25 18:37:49 -0400
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/fonts-icomoon" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 18:37:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 37ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/fonts-icomoon" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 18:38:18 -0400
+
+
+Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 18:38:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/fonts-icomoon" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 18:39:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-25 18:39:37 -0400
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-25 18:39:37 -0400
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:37 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:37 -0400
+
+
+Started GET "/assets/fonts-icomoon" for 127.0.0.1 at 2014-08-25 18:39:38 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 18:39:38 -0400
+
+
+Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 18:39:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/fonts-icomoon" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
+
+
+Started GET "/assets/icomoon.woff?-ff4szy" for 127.0.0.1 at 2014-08-25 18:40:25 -0400
