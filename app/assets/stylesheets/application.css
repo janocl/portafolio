@@ -26,20 +26,20 @@
 
 .icon-phone:before {
 	content: "\e600";
-	padding-left: 1em;
+	padding-left: 1.5em;
 	padding-right: 2em;
 	font-size: 18px;
 
 }
 .icon-profile:before {
 	content: "\e601";
-	padding-left: 1em;
+	padding-left: 1.5em;
 	padding-right: 2em;
 	font-size: 18px;
 }
 .icon-briefcase:before {
 	content: "\e602";
-	padding-left: 1em;
+	padding-left: 1.5em;
 	padding-right: 2em;
 	font-size: 18px;
 }
@@ -72,6 +72,9 @@ body{
 
 
 }
+.navbar{
+	text-align: left;
+}
 
 .navegacion{
 	background: #2E2C43;
@@ -90,7 +93,7 @@ body{
 .navegacion figure img{
 	border-radius: 50%;
 	border: 6px solid #E3313B;
-	width: 8em;
+	width: 7em;
 }
 
 .navegacion figure a{
@@ -113,11 +116,8 @@ body{
 	color: #2F89C1;
 }
 .navegacion .navbar ul li a:hover{
-	font-weight: bold;
 	color: white;
-	background: #22A7F0;
-	/*border-radius: 0.5em;*/
-
+	background: #22A7F0;.5
 }
 
 .navegacion .navbar ul li a span{
@@ -163,16 +163,16 @@ body{
 }
 
 @media (max-width: 767px){
-	body{
-
+	.navegacion figure p a{
+		color: white;
 	}
-	.contenido{
+/*	.contenido{
 		display: block;
 	}
 
 	.navegacion{
 		display: block;
-	}
+	}*/
 
 
 }
