@@ -9,15 +9,15 @@
 	<%= stylesheet_link_tag "application", media: "all" %>
 
 </head>
-<body data-spy="scroll" data-target=".contenido">
+<body>
 	<section class="col-md-2 col-sm-3 col-xs-4 navegacion">
 		<figure>
-			<img src="http://s8.postimg.org/6x5huujk5/profile.jpg" alt="Perfil">
+			<img src="http://i62.tinypic.com/2a82kn7.jpg" alt="Perfil">
 			<p><a href="https://twitter.com/" target="_black">@JaN0cL</a></p>		
 		</figure>
 		<nav class="navbar">
-		    <ul>
-		        <li><a href="#perfil" class="icon-profile"><span>Perfil</span></a></li><!--
+		    <ul id="nav">
+		        <li><a href="#perfil" class="icon-profile current"><span>Perfil</span></a></li><!--
 		     --><li><a href="#proyectos" class="icon-briefcase"><span>Proyectos</span></a></li><!--
 		     --><li><a href="#contacto" class="icon-phone"><span>Contacto</span></a></li>
 		    </ul>
@@ -46,7 +46,15 @@
 		</footer>
 
 	</section>
-
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="//davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
+        <script>
+        	$(document).ready(function() {
+			$('#nav').onePageNav({
+				changeHash: true
+			});
+		});
+        </script>
 
 </body>
 </html>

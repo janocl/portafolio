@@ -65,7 +65,7 @@ body{
 	position: absolute;
 	right: 0px;
 	top: 0px;
-	background: #EEEEEE;
+	background: #ECF0F1;
 	/*height: 170em;*/
 	color: #22A7F0;
 	display: block;
@@ -157,7 +157,7 @@ body{
 
 #perfil, #proyectos, #contacto{
 	height: 50em;
-	background: #D2D7D3;
+	background: #DADFE1;
 	padding: 2em 3em;
 
 }

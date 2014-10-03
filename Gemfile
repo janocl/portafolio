@@ -6,7 +6,7 @@ gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', group: :development
 # Postgres
-gem 'pg', group: :production
+#gem 'pg', '~> 0.17.1', group: :production
 # Heroku: This gem will also configure your app to serve assets in production.
 gem 'rails_12factor', group: :production
 # The Unicorn web server lets you run any Rails application concurrently by running multiple Ruby processes in a single dyno.

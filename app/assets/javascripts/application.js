@@ -14,7 +14,3 @@
 //= require jquery_ujs
 //= require_tree .
 //= require turbolinks
-
-$(document).ready(function() {
-      $('body').scrollspy({ target: '.contenido' })
-});
