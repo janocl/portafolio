@@ -143,14 +143,22 @@ body{
 }
 
 .contenido #contacto img:hover{
-	transition:0.2s;
+	transition: 0.2s;
 	padding: .2em .2em;
 }
+.contenido .parrafo{
+	padding: 1em 0em;
+}
 
-.contenido .raya{
-	background: #22A7F0;
-	height: .2em;
-	width: 12em;
+.contenido #perfil article{
+	border-left: .3em solid rgba(23,147,239,40);
+	padding-left: 1em;
+	display: inline-block;
+	text-align: left;
+}
+
+.contenido .titulo{
+	border-bottom: .1em solid rgba(23,147,239,100);
 }
 
 .contenido .foot{
