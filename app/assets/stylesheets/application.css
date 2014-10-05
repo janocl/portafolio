@@ -101,6 +101,9 @@ body{
 	text-decoration: none;
 	margin: 2em 0em;
 }
+.navegacion .navbar{
+	padding-top: 2em;
+}
 
 .navegacion .navbar ul{
 	list-style: none;
@@ -128,12 +131,6 @@ body{
 	font-size: 14px;
 
 }
-.contenido #perfil h3{
-	font-size: 32px;
-}
-.contacto #perfil .parrafo{
-	padding-bottom: 6em;
-}
 
 .contenido #contacto .iconos{
 	display: inline-block;
@@ -154,12 +151,19 @@ body{
 	padding: 1em 0em;
 }
 
+.contenido #perfil h3{
+	font-size: 32px;
+}
+
 .contenido #perfil article{
 	/*border-left: .1em solid rgba(34,32,52,.8);*/
 	padding: 0em 1em;
 	display: inline-block;
 	text-align: left;
 
+}
+.contenido #perfil .titulo{
+	padding-top: 2em;
 }
 
 .contenido .titulo{
