@@ -131,7 +131,7 @@ body{
 	font-size: 32px;
 }
 
-.contenido #contacto div{
+.contenido #contacto .iconos{
 	display: inline-block;
 	text-align: center;
 	margin: 4em 5em;
@@ -145,6 +145,12 @@ body{
 .contenido #contacto img:hover{
 	transition:0.2s;
 	padding: .2em .2em;
+}
+
+.contenido .raya{
+	background: #22A7F0;
+	height: .2em;
+	width: 12em;
 }
 
 .contenido .foot{
