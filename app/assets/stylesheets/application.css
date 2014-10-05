@@ -48,7 +48,8 @@ body{
 	font-size: 16px;
 	font-family: "Helvetica";
 	position: relative;
-	background: #EEEEEE;
+	color: #606060;
+	/*background: #EEEEEE;*/
 
 }
 
@@ -65,9 +66,9 @@ body{
 	position: absolute;
 	right: 0px;
 	top: 0px;
-	background: #ECF0F1;
+	background: #22A7F0;
 	/*height: 170em;*/
-	color: #22A7F0;
+	color: #606060;
 	display: block;
 
 
@@ -126,6 +127,25 @@ body{
 	font-size: 14px;
 
 }
+.contenido article h3{
+	font-size: 32px;
+}
+
+.contenido #contacto div{
+	display: inline-block;
+	text-align: center;
+	margin: 4em 5em;
+	padding-top: 2em;
+}
+
+.contenido #contacto a:hover{
+	text-decoration: none;
+}
+
+.contenido #contacto img:hover{
+	transition:0.2s;
+	padding: .2em .2em;
+}
 
 .contenido .foot{
 	text-align: center;
@@ -157,7 +177,7 @@ body{
 
 #perfil, #proyectos, #contacto{
 	height: 50em;
-	background: #DADFE1;
+	background: #fff;
 	padding: 2em 3em;
 
 }
