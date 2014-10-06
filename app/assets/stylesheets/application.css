@@ -67,8 +67,8 @@ body{
 	right: 0px;
 	top: 0px;
 	background: #6C7A89;
-	/*height: 170em;*/
-	color: #606060;
+	/*color: #606060;*/
+	color: #333;
 	display: block;
 
 
@@ -147,12 +147,13 @@ body{
 	transition: 0.2s;
 	padding: .2em .2em;
 }
-.contenido .parrafo{
-	padding: 1em 0em;
+
+.contenido #contacto h3{
+	font-size: 32px;
 }
 
-.contenido #perfil h3{
-	font-size: 32px;
+.contenido .parrafo{
+	padding: 1em 0em;
 }
 
 .contenido #perfil article{
@@ -162,11 +163,17 @@ body{
 	text-align: left;
 
 }
+.contenido #perfil h3{
+	/*padding-top: .5em;*/
+	font-size: 32px;
+}
+
 .contenido #perfil .titulo{
-	padding-top: 2em;
+	padding-top: 1em;
 }
 
 .contenido .titulo{
+	padding-bottom: .5em;
 	border-bottom: .05em solid rgba(23,147,239,100);
 }
 
@@ -178,13 +185,16 @@ body{
 	color: white;
 }
 
+.contenido #proyectos .titulo{
+	font-size: 32px;
+}
+
 #perfil{
 	display: block;
 	text-align: left;
 }
 
 #proyectos{
-	/*margin: 10em 0em;*/
 	display: block;
 	text-align: left;
 	vertical-align: top;
@@ -192,7 +202,6 @@ body{
 
 
 #contacto{
-	/*margin: 10em 0em;*/
 	display: block;
 	text-align: left;
 	vertical-align: top;
