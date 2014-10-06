@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:300");
+@import url("http://fonts.googleapis.com/css?family=Roboto:100");
 @font-face {
 	font-family: 'Icomoon';
 	src:url('icomoon.eot');
@@ -46,7 +46,7 @@
 
 body{
 	font-size: 16px;
-	font-family: "Open Sans";
+	font-family: "Roboto";
 	font-weight: bold;
 	position: relative;
 	color: #606060;
