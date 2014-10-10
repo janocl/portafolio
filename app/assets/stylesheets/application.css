@@ -44,6 +44,26 @@
 	font-size: 18px;
 }
 
+a{
+	text-decoration: none;
+	margin: .5em 0em;
+	display: block;
+	padding: 1em 0em;
+	color: #2F89C1;
+	font-size: 14px;
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+	transition: .3s;
+	background: #22A7F0;
+}
+
+a:before{
+	transition: all .1s ease-in-out;
+}
+
 body{
 	font-size: 16px;
 	font-family: "Roboto";
@@ -51,6 +71,13 @@ body{
 	position: relative;
 	color: #606060;
 
+}
+ul{
+	list-style: none;
+	padding: 0px;
+}
+ul li{
+	width: 100%;
 }
 
 .col-md-2{
@@ -67,7 +94,6 @@ body{
 	right: 0px;
 	top: 0px;
 	background: #6C7A89;
-	/*color: #606060;*/
 	color: #333;
 	display: block;
 
@@ -97,41 +123,12 @@ body{
 	width: 7em;
 }
 
-.navegacion figure a{
-	text-decoration: none;
-	margin: 2em 0em;
-}
 .navegacion .navbar{
 	padding-top: 2em;
 }
 
-.navegacion .navbar ul{
-	list-style: none;
-	padding: 0px;
-}
-.navegacion .navbar ul li{
-	width: 100%;
-}
-
-.navegacion .navbar ul li a{
-	text-decoration: none;
-	display: block;
-	padding: 1em 0em;
-	color: #2F89C1;
-	font-size: 14px;
-}
-.navegacion .navbar ul li a:hover{
-	color: white;
-	transition: .3s;
-	background: #22A7F0;
-}
-.navegacion .navbar ul li a:before{
-	transition: all .1s ease-in-out;
-}
-
 .navegacion .navbar ul li a span{
 	font-weight: bold;
-	/*font-size: 14px;*/
 
 }
 
@@ -140,19 +137,6 @@ body{
 	text-align: center;
 	margin: 4em 5em;
 	padding-top: 2em;
-}
-
-.contenido #contacto a:hover{
-	text-decoration: none;
-}
-
-.contenido #contacto img:hover{
-	transition: 0.2s;
-	padding: .2em .2em;
-}
-
-.contenido #contacto h3{
-	font-size: 32px;
 }
 
 .contenido .parrafo{
@@ -164,10 +148,6 @@ body{
 	display: inline-block;
 	text-align: left;
 
-}
-.contenido #perfil h3{
-	/*padding-top: .5em;*/
-	font-size: 32px;
 }
 
 .contenido #perfil .titulo{
@@ -185,10 +165,6 @@ body{
 	margin: 0px;
 	padding: 2em 0em;
 	color: white;
-}
-
-.contenido #proyectos .titulo{
-	font-size: 32px;
 }
 
 #perfil{
