@@ -65,6 +65,11 @@
 		<article id="proyectos">
 			<h3 class="titulo">Proyectos</h3>
 			<p class="parrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<article>
+				<a href="large_1.jpg" class="fancybox" rel="gallery" title="Sample title 1"><img src="https://d13yacurqjgara.cloudfront.net/users/428659/screenshots/1762028/social_dashboard_cover.jpg" /></a>
+				<a href="large_2.jpg" class="fancybox" rel="gallery" title="Sample title 1"><img src="https://d13yacurqjgara.cloudfront.net/users/70178/screenshots/1762553/untitled-1.jpg" /></a>
+			</article>
+
 		</article>
 
 		<article id="contacto">
@@ -86,6 +91,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
     <script>
         	$(document).ready(function() {
+        		$('.fancybox').fancybox();
 						$('#nav').onePageNav({
 							changeHash: true
 						});
