@@ -57,7 +57,7 @@ a:hover{
 	text-decoration: none;
 	color: white;
 	transition: .3s;
-	background: #22A7F0;
+	background: #bdc3c7;
 }
 
 a:before{
@@ -127,6 +127,10 @@ ul li{
 	padding-top: 2em;
 }
 
+.navegacion .navbar ul li a:hover{
+		background: #22A7F0;
+}
+
 .navegacion .navbar ul li a span{
 	font-weight: bold;
 
@@ -157,6 +161,21 @@ ul li{
 .contenido .titulo{
 	padding-bottom: .5em;
 	border-bottom: .05em solid rgba(23,147,239,100);
+}
+
+.contenido .galeria a{
+	display: inline-block;
+	text-align: center;
+	padding: 1.3em 1.3em;
+	margin: 0em;
+}
+
+.contenido .galeria a:hover{
+	transition: 1s;
+}
+
+.contenido .galeria img{
+	width: 20em;
 }
 
 .contenido .foot{
