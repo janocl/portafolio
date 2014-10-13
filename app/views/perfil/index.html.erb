@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Portafolio</title>
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.css">
 	<%= stylesheet_link_tag "application", media: "all" %>
 
 </head>
@@ -81,14 +82,14 @@
 
 	</section>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script src="//davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
-        <script>
+    <script src="//davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+    <script>
         	$(document).ready(function() {
-			$('#nav').onePageNav({
-				changeHash: true
-			});
-		});
-        </script>
-
+						$('#nav').onePageNav({
+							changeHash: true
+						});
+					});
+    </script>
 </body>
 </html>
