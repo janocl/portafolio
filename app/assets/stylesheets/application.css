@@ -123,6 +123,9 @@ ul li{
 	width: 7em;
 	text-align: center;
 }
+.navegacion figure .img-responsive{
+	display: inline-block;
+}
 
 .navegacion .navbar{
 	padding-top: 2em;
