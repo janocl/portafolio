@@ -7,7 +7,8 @@
 	<title>Portafolio</title>
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.css">
-	<%= stylesheet_link_tag "application", media: "all" %>
+	<%= stylesheet_link_tag "application", "normalize",media: "all" %>
+
 
 </head>
 <body>
@@ -62,13 +63,15 @@
 				</div>
 			</section>
 			<section class="parrafo">
-				<article class="col-md-12">
-					<h3 class="Titulo">Skills</h3>
-					<p>C#</p>
-					<p>ROR</p>
-					<p>HTML 5</p>
-					<p>CSS 3</p>
-				</article>
+				<div class="row">
+					<article class="col-md-12">
+						<h3 class="titulo">Skills</h3>
+						<p>C#</p>
+						<p>ROR</p>
+						<p>HTML 5</p>
+						<p>CSS 3</p>
+					</article>
+				</div>
 			</section>
 		</article>
 		<article id="proyectos">
