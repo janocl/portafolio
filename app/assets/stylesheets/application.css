@@ -132,7 +132,7 @@ ul li{
 }
 
 .navegacion .navbar ul li a:hover{
-		background: #22A7F0;
+		background: #356FC6;
 }
 
 .navegacion .navbar ul li a span{
@@ -188,6 +188,13 @@ ul li{
 	margin: 0px;
 	padding: 2em 0em;
 	color: white;
+}
+.fancybox-next{
+	opacity: 0.2;
+}
+
+.fancybox-prev{
+	opacity: 0.2;
 }
 
 #perfil{
