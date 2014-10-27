@@ -100,29 +100,29 @@
 
 	</section>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="//davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-    <script src="http://code.highcharts.com/highcharts.js"></script>
-	<script src="http://code.highcharts.com/modules/exporting.js"></script>
-    <script>
-        	$(document).ready(function() {
-        		$('.fancybox').fancybox();
-						$('#nav').onePageNav({
-							changeHash: true
-						});
+	    <script src="//davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
+	    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+	    <script src="http://code.highcharts.com/highcharts.js"></script>
+		<script src="http://code.highcharts.com/modules/exporting.js"></script>
+	    <script>
+	        	$(document).ready(function() {
+	        		$('.fancybox').fancybox();
+							$('#nav').onePageNav({
+								changeHash: true
+							});
 
-						$('#container').highcharts({
-					        chart: {type: 'bar'},
-					        title: {text: 'Skills', align:'center'},
-					        xAxis: {categories: ['C#', 'Ruby on Rails', 'HTML5', 'CSS3'],title: {text: null}},
-					        yAxis: {min: 0,title: {text: 'Population (millions)',align: 'center'},labels: {overflow: 'justify'}},
-					        tooltip: {valueSuffix: ' millions'},
-					        plotOptions: {bar: {dataLabels: {enabled: true}}},
-					        credits: {enabled: false},
-					        series: [{ data: [350, 55, 220, 180]}]
-					    });
+							$('#container').highcharts({
+						        chart: {type: 'bar'},
+						        title: {text: 'Skills', align:'center'},
+						        xAxis: {categories: ['C#', 'Ruby on Rails', 'HTML5', 'CSS3'],title: {text: null}},
+						        yAxis: {min: 0,title: {text: 'Population (millions)',align: 'center'},labels: {overflow: 'justify'}},
+						        tooltip: {valueSuffix: ' millions'},
+						        plotOptions: {bar: {dataLabels: {enabled: true}}},
+						        credits: {enabled: false},
+						        series: [{ data: [90, 30, 80, 70]}]
+						    });
 
-			});
-    </script>
+				});
+	    </script>
 </body>
 </html>
