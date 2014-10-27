@@ -66,11 +66,8 @@
 				<div class="row">
 					<article class="col-md-12">
 						<h3 class="titulo">Skills</h3>
-						<p>C# { Entity Framework - Linq - Asp.Net MVC }</p>
-						<p>Ruby on Rails</p>
-						<p>HTML 5</p>
-						<p>CSS 3</p>
-					</article>
+						<div id="container" style="min-width: 310px; max-width: 800px; height: 400px; margin: 0 auto"></div>
+					</article>					
 				</div>
 			</section>
 		</article>
@@ -105,13 +102,27 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="//davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
     <script>
         	$(document).ready(function() {
         		$('.fancybox').fancybox();
 						$('#nav').onePageNav({
 							changeHash: true
 						});
-					});
+
+						$('#container').highcharts({
+					        chart: {type: 'bar'},
+					        title: {text: 'Skills', align:'center'},
+					        xAxis: {categories: ['C#', 'Ruby on Rails', 'HTML5', 'CSS3'],title: {text: null}},
+					        yAxis: {min: 0,title: {text: 'Population (millions)',align: 'center'},labels: {overflow: 'justify'}},
+					        tooltip: {valueSuffix: ' millions'},
+					        plotOptions: {bar: {dataLabels: {enabled: true}}},
+					        credits: {enabled: false},
+					        series: [{ data: [350, 55, 220, 180]}]
+					    });
+
+			});
     </script>
 </body>
 </html>
