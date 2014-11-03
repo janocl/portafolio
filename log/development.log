@@ -47668,3 +47668,88 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-31 17:38:31
 
 
 Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-10-31 17:38:31 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (39.6ms)
+Completed 200 OK in 157ms (Views: 145.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-02 21:04:42 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-02 21:04:43 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-02 21:07:00 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 59ms (Views: 58.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-02 21:07:01 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-02 21:07:21 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-02 21:07:21 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-02 22:15:19 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-02 22:15:19 -0300

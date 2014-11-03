@@ -200,12 +200,14 @@ ul li{
 #perfil{
 	display: block;
 	text-align: left;
+	/*height: 40%;*/
 }
 
 #proyectos{
 	display: block;
 	text-align: left;
 	vertical-align: top;
+	/*height: 30%;*/
 }
 
 
@@ -213,10 +215,11 @@ ul li{
 	display: block;
 	text-align: left;
 	vertical-align: top;
+	/*height: 30%;*/
 }
 
 #perfil, #proyectos, #contacto{
-	height: 60em;
+	/*height: 60em;*/
 	background: #fff;
 	padding: 2em 3em;
 
