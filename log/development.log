@@ -47753,3 +47753,630 @@ Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-02 22:15:19 
 
 
 Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-02 22:15:19 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (85.5ms)
+Completed 200 OK in 150ms (Views: 136.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:22:08 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:22:09 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:22:19 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (27.6ms)
+Completed 200 OK in 111ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:27:19 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:27:27 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:27:27 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (16.6ms)
+Completed 200 OK in 49ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:28:28 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:29:46 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (19.4ms)
+Completed 200 OK in 77ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:46 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:29:47 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 48ms (Views: 47.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:16 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:30:17 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 62ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:30:30 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (16.3ms)
+Completed 200 OK in 53ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:30:43 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 65ms (Views: 64.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:31:47 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:31:48 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (15.5ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:32:26 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 59ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:32:58 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:35:55 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (15.1ms)
+Completed 200 OK in 51ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:55 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:35:55 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:35:56 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:36:05 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:36:05 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 52ms (Views: 51.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:37:56 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:37:57 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 60ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:38:30 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:38:31 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 50ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:39:10 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (12.3ms)
+Completed 200 OK in 59ms (Views: 58.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:25 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:39:26 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (35.7ms)
+Completed 200 OK in 76ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:39:48 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 53ms (Views: 52.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2014-11-03 23:40:01 -0300
