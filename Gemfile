@@ -4,7 +4,7 @@ gem 'normalize-rails', '~> 3.0.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3', group: :development
+gem 'sqlite3', '~> 1.3.10', group: :development
 # Postgres
 gem 'pg', group: :production
 # Heroku: This gem will also configure your app to serve assets in production.

@@ -78,6 +78,7 @@ ul{
 }
 ul li{
 	width: 100%;
+	list-style: none;
 }
 
 .col-md-2{
@@ -113,7 +114,7 @@ ul li{
 	margin: 0px; 
 	padding: 0px;
 	text-align: center;
-	padding: 2.5em 0 2em 0em;
+	padding: 4em 0 2em 0em;
 
 }
 
@@ -200,14 +201,12 @@ ul li{
 #perfil{
 	display: block;
 	text-align: left;
-	height: 70em;
 }
 
 #proyectos{
 	display: block;
 	text-align: left;
 	vertical-align: top;
-	/*height: 30%;*/
 }
 
 
@@ -215,11 +214,10 @@ ul li{
 	display: block;
 	text-align: left;
 	vertical-align: top;
-	/*height: 30%;*/
+	height: 35em;
 }
 
 #perfil, #proyectos, #contacto{
-	/*height: 60em;*/
 	background: #fff;
 	padding: 2em 3em;
 
