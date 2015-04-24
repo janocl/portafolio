@@ -49379,3 +49379,786 @@ Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-09 17:03:26 -0
 
 
 Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-09 17:03:26 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-09 21:22:05 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (40.4ms)
+Completed 200 OK in 127ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 52ms (Views: 51.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-09 21:22:06 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (16.9ms)
+Completed 200 OK in 57ms (Views: 55.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-09 21:55:47 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-09 21:55:48 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-12 20:42:29 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (45.8ms)
+Completed 200 OK in 178ms (Views: 164.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-12 20:42:30 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-12 20:42:31 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-12 20:42:31 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-12 20:42:31 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-12 20:42:31 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-12 20:42:31 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (39.2ms)
+Completed 200 OK in 131ms (Views: 118.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-15 23:46:28 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-15 23:46:29 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (40.3ms)
+Completed 200 OK in 141ms (Views: 129.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:00:58 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-17 20:00:59 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-17 20:00:59 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-17 20:00:59 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-17 20:00:59 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-17 20:00:59 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 70ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-17 20:01:22 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:01:24 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:24 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 69ms (Views: 69.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-17 20:01:53 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:01:54 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:01:54 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-17 20:01:55 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-17 20:02:10 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (14.6ms)
+Completed 200 OK in 51ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-17 20:02:11 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-17 20:02:12 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-17 20:02:12 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-17 20:02:12 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-17 20:02:12 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-17 20:02:12 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-17 20:02:31 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (15.2ms)
+Completed 200 OK in 52ms (Views: 51.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-17 20:02:32 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (42.2ms)
+Completed 200 OK in 134ms (Views: 124.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-03-23 19:47:55 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-03-23 19:47:56 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-03-23 19:47:56 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-03-23 19:47:56 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-03-23 19:47:56 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-03-23 19:47:56 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (37.6ms)
+Completed 200 OK in 129ms (Views: 119.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-04-23 20:27:04 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-04-23 20:27:05 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 20:27:12 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 58ms (Views: 57.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 20:27:20 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 62ms (Views: 61.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 20:29:29 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 65ms (Views: 64.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 20:33:22 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (16.7ms)
+Completed 200 OK in 52ms (Views: 51.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 52ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:04:31 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-04-23 21:04:46 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-04-23 21:04:46 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-04-23 21:04:46 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-04-23 21:04:46 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-04-23 21:04:46 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:06:12 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:06:12 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:08:12 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:08:13 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 21:08:33 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (19.2ms)
+Completed 200 OK in 60ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-04-23 21:08:34 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 21:18:43 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (26.9ms)
+Completed 200 OK in 62ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:18:43 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:43 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:18:44 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-04-23 21:18:47 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-04-23 21:18:47 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-04-23 21:18:47 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-04-23 21:18:47 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-04-23 21:18:47 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:29:40 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:29:40 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:32:04 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:32:04 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+Processing by PerfilController#index as HTML
+  Rendered perfil/index.html.erb within layouts/application (21.9ms)
+Completed 200 OK in 65ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/ChartNew.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/perfil.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-23 21:33:54 -0300
+
+
+Started GET "/assets/rs/linkedin-3-128.png" for 127.0.0.1 at 2015-04-23 21:33:55 -0300
+
+
+Started GET "/assets/rs/twitter-128.png" for 127.0.0.1 at 2015-04-23 21:33:55 -0300
+
+
+Started GET "/assets/rs/github-11-128.png" for 127.0.0.1 at 2015-04-23 21:33:55 -0300
+
+
+Started GET "/assets/rs/inbox-8-128.png" for 127.0.0.1 at 2015-04-23 21:33:55 -0300
+
+
+Started GET "/assets/icomoon.woff" for 127.0.0.1 at 2015-04-23 21:33:55 -0300

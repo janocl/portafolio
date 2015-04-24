@@ -189,6 +189,9 @@ ul li{
 	margin: 0px;
 	padding: 2em 0em;
 	color: white;
+	position: absolute;
+	bottom: 0em;
+	width: 100%;
 }
 .fancybox-next{
 	opacity: 0.2;
