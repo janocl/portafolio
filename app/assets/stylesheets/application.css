@@ -139,6 +139,10 @@ ul li{
 
 
 }
+.current a{
+	text-decoration: none;
+}
+
 .navbar{
 	text-align: left;
 }
@@ -171,8 +175,9 @@ ul li{
 	padding: 1.5em 0em;
 }
 
+
 .navegacion .navbar ul li a:hover{
-		background: #356FC6;
+	background: #356FC6;
 }
 
 .navegacion .navbar ul li a span{
