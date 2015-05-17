@@ -24,6 +24,45 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+/* ROTATE WORDS */
+.rotate-words {
+	display: inline-block; min-width: 180px; min-height: 34px; text-align: left; text-indent: 4px;
+	}
+.rotate-words span {
+	position: absolute; opacity: 0; font-weight: 800; letter-spacing: -2px;
+	}
+.rotate-words span.rotate-in {
+	animation: rotateInWord .5s linear forwards;
+	-webkit-animation: rotateInWord .5s linear forwards;
+	}
+.rotate-words span.rotate-out {
+	animation: rotateOutWord .5s linear forwards;
+	-webkit-animation: rotateOutWord .5s linear forwards;
+	}
+.rotate-words span:first-child {
+	opacity: 1; 
+	}
+.no-csstransforms .rotate-words span {
+	display: none; opacity: 1;
+	}
+
+@-webkit-keyframes rotateInWord {
+    0% { opacity: 0; -webkit-transform: translateY(-30px); }
+	100% { opacity: 1; -webkit-transform: translateY(0px); }
+}
+@-webkit-keyframes rotateOutWord {
+    0% { opacity: 1; -webkit-transform: translateY(0px); }
+	100% { opacity: 0; -webkit-transform: translateY(30px); }
+}
+@keyframes rotateInWord {
+    0% { opacity: 0; transform: translateY(-30px); }
+	100% { opacity: 1; transform: translateY(0px); }
+}
+@keyframes rotateOutWord {
+    0% { opacity: 1; transform: translateY(0px); }
+	100% { opacity: 0; transform: translateY(30px); }
+}
+
 .icon-phone:before {
 	content: "\e600";
 	padding-left: 1.5em;
@@ -183,7 +222,7 @@ ul li{
 	width: 20em;
 }
 
-.contenido .foot{
+/*.contenido .foot{
 	text-align: center;
 	background: #2E2C43;
 	margin: 0px;
@@ -192,7 +231,7 @@ ul li{
 	position: absolute;
 	bottom: 0em;
 	width: 100%;
-}
+}*/
 .fancybox-next{
 	opacity: 0.2;
 }
@@ -217,7 +256,6 @@ ul li{
 	display: block;
 	text-align: left;
 	vertical-align: top;
-	height: 35em;
 }
 
 #perfil, #proyectos, #contacto{
@@ -226,18 +264,4 @@ ul li{
 
 }
 
-@media (max-width: 767px){
-	.navegacion figure p a{
-		color: white;
-	}
-/*	.contenido{
-		display: block;
-	}
-
-	.navegacion{
-		display: block;
-	}*/
-
-
-}
 
